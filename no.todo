@@ -1,0 +1,20 @@
+☐ What do we want our game to do?
+    Ninja and Pirate characters fight
+    Pick your action
+☐ Decide what classes exist for that game
+    Player classes
+        Pirate class
+        Ninja class
+    Gear Class
+        Weapon class
+        Armor class
+    
+
+☐ What can players do?
+    Choose a Character to play as
+    Choose an action on their turn
+    They can reset the game
+        If GAME OVER: can quit or retry
+    
+☐ What does the computer player do?
+    Randomly choose an action on their turn
